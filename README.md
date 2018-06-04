@@ -1,0 +1,1 @@
+A secure voting protocol based on homomorphic encryption with numerous Central Tabulating Facilities (CTFs), where the vote preference of each voter is hidden from the CTFs.
